@@ -6,7 +6,7 @@ namespace Program
   {
     static void Main()
     {
-      Console.WriteLine("Hello Git Hub!");
+      Console.WriteLine("Hello GitHub!");
     }
   }
 }
